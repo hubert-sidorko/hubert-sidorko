@@ -8,4 +8,4 @@
 - 📫 How to reach me **hubert.sidorko@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=py">
+<img src="https://skillicons.dev/icons?i=py"><img src="https://skillicons.dev/icons?i=mysql"><img src="https://skillicons.dev/icons?i=r"> 
