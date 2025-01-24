@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<h3 align="center">A passionate Full Stack developer from Poland</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA**
 
