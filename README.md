@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Hubert👋</h1>
-<h3 align="center">A passionate FullStack Developer from Poland</h3>
+<h3 align="center">An aspiring Analyst from Poland</h3>
 
-- 🌱 I’m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **REACT**, **SQL**
+- 🌱 I’m currently learning **SQL**, **R**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **hubert.sidorko@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,wordpress,postgres,mysql,py,java,git">
+<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,git">
